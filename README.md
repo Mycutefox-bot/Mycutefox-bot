@@ -1,5 +1,5 @@
 # 👋 你好，我是 Leostam！
-**个人博客**(https://blog.leostam.top)
+[**个人博客**](https://blog.leostam.top)
 <p align="left">
   <img src="https://img.shields.io/badge/身份-中学生%20|%20开发者-blue?style=flat-square">
   <img src="https://img.shields.io/badge/组织-Pixel%20Goose%20IT%20协会-orange?style=flat-square&logo=github">
@@ -28,7 +28,3 @@
 ---
 
 > "写代码是为了创造，而不是为了修 Bug。" —— Leostam
-
-📫 **联系我:**
-- **Online ID:** Leostam / Mycutefox-bot
-- **协会/项目相关:** 欢迎通过 Pixel Goose IT 协会联系
