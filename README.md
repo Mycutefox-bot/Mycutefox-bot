@@ -3,11 +3,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Project-FoxBot-blue?style=flat-square" alt="FoxBot" />
   <img src="https://img.shields.io/badge/Aesthetics-Minimalist-lightgray?style=flat-square" alt="Minimalist" />
-  <img src="https://img.shields.io/badge/Role-Developer-brightgreen?style=flat-square" alt="Developer" />
-  <img src="https://img.shields.io/badge/Design-Glassmorphism-gray?style=flat-square" alt="Glassmorphism" />
 </p>
 
-我是一名 00后 开发者，热衷于软件开发、服务器部署以及极简主义与拟态玻璃（Glassmorphism）风格的界面设计。我擅长多种编程语言，并致力于构建高效实用的项目。目前，我是 FoxBot 公益项目的负责人，同时也担任 Pixel Goose IT 协会的会长。在敲代码之余，我也热爱使用尼康相机进行摄影，以及创作科幻与架空历史题材的文字。
+我是一名00后开发者，热衷于软件开发、服务器部署以及极简主义风格的界面设计。
+我擅长多种编程语言，并致力于构建高效实用的项目。目前，我是 FoxBot公益项目的负责人，同时也担任像素鹅IT协会的会长。
 
 ---
 
